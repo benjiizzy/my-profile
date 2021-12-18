@@ -1,0 +1,137 @@
+
+
+img{
+	height: 200px;
+	width: 400px;
+	border-radius: 50%;
+	box-shadow: 15px 8px 20px blue;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1,h2,h3,h5{
+text-align: center;
+color: blue
+}
+
+h1{
+	font-size: 50px;
+	letter-spacing: 10px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+h3, h5{
+	font-size: 30px;
+}
+
+h4{
+	font-size: 20px;
+	color: black;
+}
+
+body	{
+	text-align: center;
+	background: grey;
+	font-family: Courier New, monospace;
+}
+
+p{
+	margin: 20px;
+	padding: 20px;
+}
+
+.box-page{
+	margin: 100px;
+	padding: 70px;
+	border: solid blue; 3px;
+	background: white;
+}
+
+.image1{
+	margin: 20px;
+	padding: 20px;
+}
+
+.banner-picture{
+	height: 300px;
+}
+
+.card-history{
+	margin: 100px;
+	padding: 70px;
+	border: solid blue 3px;
+	background: white;
+}
+
+.team{
+	height: 300px;
+	width: 300px;
+}
+
+.card-image{
+	margin: 100px;
+	padding: 70px;
+	border: solid blue 3px;
+	background: white;
+}
+
+.card-contact{
+	margin: 100px;
+	padding: 70px;
+	border: solid blue 3px;
+	background: white;
+}
+
+.logo-tel{
+	text-align: center;
+	height: 50px;
+	width: 50px;
+}
+
+img{
+	height: 370px;
+}
+
+.btn1{
+	border: solid blue 3px;
+	margin: 10px;
+	padding: 10px;
+	background: grey;
+	color: white;
+}
+
+.btn2{
+	border: solid blue 3px;
+	margin: 10px;
+	padding: 10px;
+	background: grey;
+	color: white;
+}
+
+.btn3{
+	border: solid blue 3px;
+	margin: 10px;
+	padding: 10px;
+	background: grey;
+	color: white;
+}
+.card-cloture{
+	border: solid blue 4px;
+	background: grey;
+	color: black;
+	text-align: center;
+}
+
+.fa-website{
+	border: solid blue 3px;
+	background: white;
+	text-align: center;
+	background: black;
+	color: white;
+}
+
+
+
